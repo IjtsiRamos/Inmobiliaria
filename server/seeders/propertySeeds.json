@@ -1,0 +1,32 @@
+[
+    {
+        "category": 1,
+        "category2": 0,
+        "rooms": "2",
+        "bathrooms": "2",
+        "description": "Departamento de dos habitaciones con 2 baños completos y un medio baño en la zona de Juriquilla",
+        "address": "Blvd de la campana 1000 ",
+        "price": "3900000",
+        "img": ""
+    },
+    {
+        "category": 0,
+        "category2": 1,
+        "rooms": "2",
+        "bathrooms": "2",
+        "description": "Casa de dos habitaciones con 2 baños completos en la zona de Juriquilla",
+        "address": "Blvd de la campana 1001 ",
+        "price": "20000",
+        "img": ""
+    },
+    {
+        "category": 1,
+        "category2": 1,
+        "rooms": "4",
+        "bathrooms": "3",
+        "description": "Hermosa casa en cumbres del lago",
+        "address": "La solana 144 ",
+        "price": "3900000",
+        "img": ""
+    }
+]
